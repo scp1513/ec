@@ -4,9 +4,6 @@ package util
 import (
 	"crypto/md5"
 	"encoding/hex"
-	"fmt"
-	"strconv"
-	"strings"
 )
 
 // CStrToString 以\n结尾的字节数组转string
